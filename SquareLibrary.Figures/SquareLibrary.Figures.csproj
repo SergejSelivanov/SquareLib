@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>$(MSBuildProjectName).$(ApiVersion)</AssemblyName>
+    </PropertyGroup>
+    
+    <PropertyGroup>
+        <Version>$(ApiVersion)</Version>
+        <Description>This library calculates square of figures.</Description>
+        <PackageId>SquareLibrary.Figures</PackageId>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+</Project>

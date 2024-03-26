@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLibrary.Figures", "SquareLibrary.Figures\SquareLibrary.Figures.csproj", "{EBDD0E58-9553-4D0D-9ABA-976250811A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLibrary.Tests", "SquareLibrary.Tests\SquareLibrary.Tests.csproj", "{1A2F6640-48BA-4EC1-A8AF-5AAA7C408C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDD0E58-9553-4D0D-9ABA-976250811A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDD0E58-9553-4D0D-9ABA-976250811A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDD0E58-9553-4D0D-9ABA-976250811A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDD0E58-9553-4D0D-9ABA-976250811A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2F6640-48BA-4EC1-A8AF-5AAA7C408C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2F6640-48BA-4EC1-A8AF-5AAA7C408C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2F6640-48BA-4EC1-A8AF-5AAA7C408C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2F6640-48BA-4EC1-A8AF-5AAA7C408C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
